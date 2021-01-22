@@ -22,7 +22,7 @@ function App() {
       <Route path="/" component={HomeScreen} exact></Route>
                
     </main>
-    <footer className="row center">All rights reserved</footer>
+    <footer className="row center smalltext">All rights reserved @2021</footer>
 </div>
 </BrowserRouter>
   );
